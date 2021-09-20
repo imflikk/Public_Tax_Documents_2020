@@ -2897,6 +2897,3 @@ $Types = $FunctionDefinitions | aerosol -Module $Module -Namespace 'PowerUp.Nati
 $Advapi32 = $Types['advapi32']
 $Kernel32 = $Types['kernel32']
 $NTDll    = $Types['ntdll']
-
-Set-Alias Get-CurrentUserTokenGroupSid ails
-Set-Alias Invoke-AllChecks fencer
